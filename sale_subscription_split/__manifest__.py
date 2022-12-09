@@ -28,7 +28,7 @@
     'data': [
         'security/ir.model.access.csv',
         'views/sale_subscription_split.xml',
-        'views/quotation_subscription_split.xml',
+        #'views/quotation_subscription_split.xml',
 
 
 
