@@ -9,8 +9,8 @@
         Modulo per poter frazionare in più date l'invio dei prodotti in abbonamento
     """,
 
-    'author': "Fabrizio",
-    'website': "http://www.yourcompany.com",
+    'author': "SteSi S.r.l.",
+    'website': "http://www.stesi.eu",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/14.0/odoo/addons/base/data/ir_module_category_data.xml
