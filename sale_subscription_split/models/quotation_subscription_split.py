@@ -53,7 +53,7 @@ class SaleOrder(models.Model):
                                 'product_id': abb.product_id.id,
                                 'order_id': res.order_id.id,
                                 'product_uom_qty': abb.qty,
-                                #'commitment_date': date,
+                                'commitment_date': date,
                                 'remains_days': diff.days,
                             })
         return res
